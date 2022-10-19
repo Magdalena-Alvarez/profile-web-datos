@@ -11,7 +11,7 @@
 @prefix dbr: <http://dbpedia.org/resource/>.
 
 <> a foaf:Document ;
-   dc:date "2021-10-27"^^xsd:date ;
+   dc:date "2022-10-19"^^xsd:date ;
    dc:title "Magdax's FOAF Profile"@en ;
    foaf:primaryTopic <#ah> ;
    dc:creator <#ah> .
